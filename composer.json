@@ -1,0 +1,17 @@
+{
+    "name": "alfa-dev-team/tools",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AlfaDevTeam\\Tools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gritsay Andriy",
+            "email": "gritsayandriy@gmail.com"
+        }
+    ],
+    "require": {}
+}
